@@ -1,3 +1,3 @@
-# Implementing-decision-trees
-Machine Learning - INF283 - Project - 1 - University Of Bergen
+# Recognizing-handwritten-digits
+Machine Learning - INF283 - Project - 2 - University Of Bergen
 
